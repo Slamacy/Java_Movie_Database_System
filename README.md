@@ -9,4 +9,5 @@ The team:
 
 Example commands: 
 ***Add%%Title%%Genre%%Director%%Runtime%%Plot%%Rating%%Format%%Year%%Starring%%Copies%%Barcode%%User Rating***
+
 ***Search%%My Left Foot***
